@@ -10,3 +10,9 @@ This is to save and show some templates for Matlab figures.
 
 3)overall_speedup
 ![image](https://github.com/wdong5/Matlab_figure/blob/master/overall_speedup.png)
+
+4)sca_perf
+![image](https://github.com/wdong5/Matlab_figure/blob/master/sca_perf.png)
+
+5)iter_traj
+![image](https://github.com/wdong5/Matlab_figure/blob/master/iter_traj.png)
